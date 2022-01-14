@@ -1,8 +1,9 @@
 
+
 <!DOCTYPE HTML>
 <html>
 <head>
-<title>Rassa.lk</title>
+<title>Rassa.lk </title>
 <link rel="icon" type="image/x-icon" href="images/logo2.png">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -35,8 +36,7 @@
 	        <ul class="nav navbar-nav">
 				<li><a href="index.php">Jobs</a></li>
 				<li><a href="services.php">Services</a></li>
-				<li><a href="https://recruitme.lk/jobs-in-sri-lanka">Recruiters</a></li>
-		        </li>
+		        <li><a href="https://recruitme.lk/jobs-in-sri-lanka">Recruiters</a></li>
 		        <li class="dropdown">
 		            <a href="#" class="dropdown-toggle" data-toggle="dropdown">More<b class="caret"></b></a>
 		            <ul class="dropdown-menu">
@@ -54,108 +54,102 @@
 	  </div>
 	    <!--/.navbar-collapse-->
 	</nav>
-
 <div class="container">
     <div class="single">  
-       <div class="box_1">
-       	<h3>What we do</h3>
-        <div class="col-md-5">
-        	<img src="images/1.png" class="img-responsive" alt=""/>
-        </div>
-        <div class="col-md-7 service_box1">
-        	<h5>This site gives job seekers the opportunity to apply for a job of their choice, to find out more, and to apply for a job. Suppose that unemployment will also disappear due to this. It also gives them the opportunity to apply for a job of their choice. This will help many unemployed youths to find employment.</h5>
-        	<p>The site also offers the opportunity to recruit new employees for their business. This makes it very easy to find an employee who is qualified for their job. </p>
-        	<a href="#" class="btn_3"></a>
-        </div>
-        <div class="clearfix"> </div>
-       </div>
-       <div class="box_2">
-       	<h3>Resume Services</h3>
-       	<div class="col-md-4 icon-service">
-       		<div class="icon">
-				<i class="fa fa-calendar"></i>
+	 </div>
+	 <div class="col-md-8 single_right">
+	      <h3>Finance Manager</h3>
+	      <div class="row_1">
+	      	<div class="col-sm-5 single_img">
+	      		<img src="images/a4.jpg" class="img-responsive" alt=""/>
+	      	</div>
+	      	<div class="col-sm-7 single-para">
+			  <table class="condidate_detail">
+          	<h4>Job details</h4>
+			<tbody>
+				<tr>
+					<td>Company Name</td>
+					<td>Sysco Resources Services</td>
+				</tr>
+
+				<tr>
+					<td>Age</td>
+					<td>20-35</td>
+				</tr>
+
+				<tr>
+					<td>Location</td>
+					<td>Colombo</td>
+				</tr>
+
+				<tr>
+					<td>Experiance</td>
+					<td>1 years</td>
+				</tr>
+
+				<tr>
+					<td>Education</td>
+					<td>Bachelors degree required</td>
+				</tr>
+
+				<tr>
+					<td>Career Lavel</td>
+					<td>Mid-Level</td>
+				</tr>
+
+				<tr>
+					<td>Phone</td>
+					<td>: 011 433 5677</td>
+				</tr>
+
+				<tr>
+					<td>Fax</td>
+					<td>: 011 4643 567</td>
+				</tr>
+
+				<tr>
+					<td>E-mail</td>
+					<td><a href="syscoresources@gmai.com">syscoresources@gmai.com</a></td>
+				</tr>
+
+			
+			</tbody>
+		 </table>
+	      	</div>
+	      	<div class="clearfix"> </div>
+	      </div>
+	      <h5>Job Description</h5>
+	      <p>The position duties will include collecting, sorting and distributing mail and handling outgoing mail. This person will be responsible to maintain office services by organizing the office and answering emails. Update and post on the Association Bulletin Boards and Website. Keeps the Board of Governors informed by reviewing and analyzing management calendar and initiating action according to schedule. Maintains Association databases to support the Board of Governor commission functions, and provides miscellaneous administrative support while interacting with the Association members.</p>
+	      <div class="comments">
+	      	<h6>Comments</h6>
+			<div class="media media_1">
+			  <div class="media-left"><a href="#"> </a></div>
+			  <div class="media-body">
+			    <h4 class="media-heading"><a class="author" href="#">Kesha</a><a class="reply" href="#">Reply</a><div class="clearfix"> </div></h4>
+                How do I know the details of your company?  I would like to join with your cmpany.
+			  </div>
+			  <div class="clearfix"> </div>
 			</div>
-			<div class="icon-box-body">
-				<h4>Comment</h4>
-				<p>Anyone can comment to the posts.</p>
-			</div>
-		</div>
-       	<div class="col-md-4 icon-service">
-       		<div class="icon">
-				<i class="fa fa-lightbulb-o"></i>
-			</div>
-			<div class="icon-box-body">
-				<h4>Map</h4>
-				<p>Easily find a nearby jobs using a map.</p>
-			</div>
-		</div>
-       	<div class="col-md-4 icon-service">
-       		<div class="icon">
-				<i class="fa fa-briefcase"></i>
-			</div>
-			<div class="icon-box-body">
-				<h4>Post a job</h4>
-				<p>Post a job vacancy for your company.</p>
-			</div>
-		</div>
-		<div class="col-md-4 icon-service">
-       		<div class="icon">
-				<i class="fa fa-bar-chart-o"></i>
-			</div>
-			<div class="icon-box-body">
-				<h4>Customer services </h4>
-				<p>You can contact us using Gmail, mobile numbers or social media.</p>
-			</div>
-		</div>
-		<div class="col-md-4 icon-service">
-       		<div class="icon">
-				<i class="fa fa-bug"></i>
-			</div>
-			<div class="icon-box-body">
-				<h4>Applying A Job</h4>
-				<p>Easy to apply a job post. </p>
-			</div>
-		</div>
-		<div class="col-md-4 icon-service">
-       		<div class="icon">
-				<i class="fa fa-flash"></i>
-			</div>
-			<div class="icon-box-body">
-				<h4>Locate You</h4>
-				<p>See what are the jobs vacancies near by.</p>
-			</div>
-		</div>
-       	<div class="clearfix"> </div>
-       </div>
-       <div class="box_3">
-       	  <h3>Clients say</h3>
-       	  <div class="col-md-6 testimonial">
-		    <blockquote>
-				<p>This is a very useful website that can provide job opportunities to many people. What I find most unique is the ease of providing job opportunities around them.</p>
-			</blockquote>
-			<div class="author">
-				<figure class="author-img">
-					<img src="images/f2.jpg" class="img-responsive" alt=""/>
-				</figure>
-				<h6>Mark</h6>
-				<span class="author-info">Fashion Designer, DKSA</span>
-			</div>
+			
 		  </div>
-		  <div class="col-md-6 testimonial">
-		    <blockquote>
-				<p>A very valuable website. Please continue.</p>
-			</blockquote>
-			<div class="author">
-				<figure class="author-img">
-					<img src="images/f1.jpg" class="img-responsive" alt=""/>
-				</figure>
-				<h6>Tharushi</h6>
-				<span class="author-info">Cake maker , Tharu cake pvt.ltd</span>
+		  <form>
+			<div class="to">
+             	<input type="text" class="text" value="Name" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Name';}">
+			 	<input type="text" class="text" value="Email" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Email';}" style="margin-left:3%">
 			</div>
-		 </div>
-		 <div class="clearfix"> </div>
-       </div>
-	</div>
+			<div class="text">
+               <textarea value="Message" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Message';}">Message</textarea>
+            </div>
+            <div class="form-submit1">
+	           <input name="submit" type="submit" id="submit" value="Submit"><br>
+	        </div>
+			<div class="clearfix"></div>
+          </form>
+	   </div>
+	   <div class="clearfix"> </div>
+	   <div class="single">  
+	 </div>
+	 </div>
 </div>
 <div class="footer">
 	<div class="container">

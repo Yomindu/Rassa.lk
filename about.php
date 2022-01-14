@@ -3,10 +3,9 @@
 <html>
 <head>
 <title>Rassa.lk</title>
+<link rel="icon" type="image/x-icon" href="images/logo2.png">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta name="keywords" content="Job Portal Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template, 
-Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyEricsson, Motorola web design" />
 <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
 <link href="css/bootstrap-3.1.1.min.css" rel='stylesheet' type='text/css' />
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
@@ -29,109 +28,33 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		        <span class="icon-bar"></span>
 		        <span class="icon-bar"></span>
 	        </button>
-	        <a class="navbar-brand" href="index.html"><img src="images/logo.png" alt=""/></a>
+	        <a class="navbar-brand" href="index.php"><img src="images/logo.png" alt=""/></a>
 	    </div>
 	    <!--/.navbar-header-->
 	    <div class="navbar-collapse collapse" id="bs-example-navbar-collapse-1" style="height: 1px;">
 	        <ul class="nav navbar-nav">
-		        <li class="dropdown">
-		            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Jobs<b class="caret"></b></a>
-		            <ul class="dropdown-menu">
-			            <li><a href="location.html">Contract Jobs</a></li>
-			            <li><a href="location.html">Walkin Jobs</a></li>
-			            <li><a href="location.html">Jobs by Location</a></li>
-			            <li><a href="location.html">Jobs by Function</a></li>
-			            <li><a href="location.html">Jobs by Industry</a></li>
-			            <li><a href="location.html">Jobs by Company</a></li>
-		            </ul>
-		        </li>
-		        <li class="dropdown">
-		        	<a href="#" class="dropdown-toggle" data-toggle="dropdown">Services<b class="caret"></b></a>
-		            <ul class="dropdown-menu multi-column columns-3">
-			            <div class="row">
-				            <div class="col-sm-4">
-					            <ul class="multi-column-dropdown">
-						            <li><a href="services.html">Action</a></li>
-						            <li><a href="services.html">Another action</a></li>
-						            <li><a href="services.html">Something else here</a></li>
-						            <li class="divider"></li>
-						            <li><a href="services.html">Separated link</a></li>
-						            <li class="divider"></li>
-						            <li><a href="services.html">One more separated link</a></li>
-					            </ul>
-				            </div>
-				            <div class="col-sm-4">
-					            <ul class="multi-column-dropdown">
-						            <li><a href="services.html">Action</a></li>
-						            <li><a href="services.html">Another action</a></li>
-						            <li><a href="services.html">Something else here</a></li>
-						            <li class="divider"></li>
-						            <li><a href="services.html">Separated link</a></li>
-						            <li class="divider"></li>
-						            <li><a href="services.html">One more separated link</a></li>
-					            </ul>
-				            </div>
-				            <div class="col-sm-4">
-					            <ul class="multi-column-dropdown">
-						            <li><a href="services.html">Action</a></li>
-						            <li><a href="services.html">Another action</a></li>
-						            <li><a href="services.html">Something else here</a></li>
-						            <li class="divider"></li>
-						            <li><a href="services.html">Separated link</a></li>
-						            <li class="divider"></li>
-						            <li><a href="services.html">One more separated link</a></li>
-					            </ul>
-				            </div>
-			            </div>
-		            </ul>
-		        </li>
-		        <li class="dropdown">
-		            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Recruiters<b class="caret"></b></a>
-		            <ul class="dropdown-menu">
-			            <li><a href="login.html">Recruiter Updates</a></li>
-			            <li><a href="recruiters.html">Recruiters you are following</a></li>
-			            <li><a href="codes.html">Shortcodes</a></li>
-		            </ul>
-		        </li>
+				<li><a href="index.php">Jobs</a></li>
+		        <li><a href="services.php">Services</a></li>
+
+		        <li><a href="https://recruitme.lk/jobs-in-sri-lanka">Recruiters</a></li>
+		            
 		        <li class="dropdown">
 		            <a href="#" class="dropdown-toggle" data-toggle="dropdown">More<b class="caret"></b></a>
 		            <ul class="dropdown-menu">
-			            <li><a href="jobs.html">Walk-ins</a></li>
-			            <li><a href="jobs.html">Bpo Jobs</a></li>
-			            <li><a href="jobs.html">Teaching Jobs</a></li>
-			            <li><a href="jobs.html">Diploma Jobs</a></li>
-			            <li><a href="jobs.html">Tech Support</a></li>
-			            <li><a href="jobs.html">Finance Jobs</a></li>
-			            <li><a href="jobs.html">Part time Jobs</a></li>
-			            <li><a href="jobs.html">Health Care</a></li>
-			            <li><a href="jobs.html">Hospitality</a></li>
-			            <li><a href="jobs.html">Internships</a></li>
-			            <li><a href="jobs.html">Research Jobs</a></li>
-			            <li><a href="jobs.html">Defence Jobs</a></li>
+						<li><a href="features.php">Features</a></li>
+			            <li><a href="terms.php">Terms of use</a></li>
+						<li><a href="contact.php">Contact Us</a></li>
+			            <li><a href="about.php">About Us</a></li>
 		            </ul>
 		        </li>
-		        <li><a href="login.html">Login</a></li>
-		        <li><a href="resume.html">Upload Resume</a></li>
+		        <li><a href="login.php">Login</a></li>
+		        <li><a href="postjob.php">Post a Job</a></li>
 	        </ul>
 	    </div>
 	    <div class="clearfix"> </div>
 	  </div>
 	    <!--/.navbar-collapse-->
 	</nav>
-<div class="banner_1">
-	<div class="container">
-		<div id="search_wrapper1">
-		   <div id="search_form" class="clearfix">
-		    <h1>Start your job search</h1>
-		    <p>
-			 <input type="text" class="text" placeholder=" " value="Enter Keyword(s)" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Enter Keyword(s)';}">
-			 <input type="text" class="text" placeholder=" " value="Location" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Location';}">
-			 <label class="btn2 btn-2 btn2-1b"><input type="submit" value="Find Jobs"></label>
-			</p>
-           </div>
-		</div>
-   </div> 
-</div>	
 <div class="container">
     <div class="single">  
        <h2>Advantages</h2>
@@ -141,10 +64,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				<ul>
 					<li><span class="dropcap">1.</span>  
 					   <div class="item_content">
-						<h5><a href="#">nunc nobis videntur parum</a></h5> 
-						<p> anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc nobis videntur paru.</p>
-						<p class="m_1">Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock</p>
-					   </div>
+						<h5><a href="#">Any Company representatives logging in may also access any information put up by Job Seeker.</a></h5> 
+						</div>
 					</li>
 			    </ul>
 			</div>
@@ -154,9 +75,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				<ul>
 					<li><span class="dropcap">2.</span>  
 					   <div class="item_content">
-						<h5><a href="#">nunc nobis videntur parum</a></h5> 
-						<p> anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc nobis videntur paru.</p>
-						<p class="m_1">Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock</p>
+						<h5><a href="#">we can be used as an Online Job Portal for the Placements providing to the un employees who are seeking for a job placement. </a></h5> 
 					   </div>
 					</li>
 			    </ul>
@@ -167,10 +86,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				<ul>
 					<li><span class="dropcap">3.</span>  
 					   <div class="item_content">
-						<h5><a href="#">nunc nobis videntur parum</a></h5> 
-						<p> anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc nobis videntur paru.</p>
-						<p class="m_1">Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock</p>
-					   </div>
+						<h5><a href="#">Anyone can easily place an ad for any job vacancy anywhere, in any workplace.</a></h5> 
+					</div>
 					</li>
 			    </ul>
 			</div>
@@ -191,13 +108,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				   	 				<img src="images/f5.jpg" class="img-responsive" alt=""/>
 				   	 			</li>
 				   	 			<li class="grid-1_right">
-				   	 				<p>Garcinia cambogia is one of the main 
-										components in one of the best-selling 
-										supplemental weight loss products, 
-										Hydroxycut., and researchers have 
-										concluded that "the evidence for G. 
-										cambogia is not compelling.</p>
-								      <h4><a href="#">annette Doe</a> | Abc Company</h4>
+				   	 				<p>“Far and away the best prize that life has to offer is the chance to work hard at work worth doing.”</p>
+								      <h4><a href="#">Theodore Roosevelt</a></h4>
 				   	 			</li>
 				   	 			<div class="clearfix"> </div>
 				   	 		</ul>
@@ -210,13 +122,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				   	 				<img src="images/f6.jpg" class="img-responsive" alt=""/>
 				   	 			</li>
 				   	 			<li class="grid-1_right">
-				   	 				<p>Garcinia cambogia is one of the main 
-										components in one of the best-selling 
-										supplemental weight loss products, 
-										Hydroxycut., and researchers have 
-										concluded that "the evidence for G. 
-										cambogia is not compelling.</p>
-								      <h4><a href="#">annette Doe</a> | Abc Company</h4>
+				   	 				<p>“When one door closes, another opens; but we often look so long and so regretfully upon the closed door that we do not see the one which has opened for us.”</p>
+								      <h4><a href="#">Alexander Graham Bell</a></h4>
 				   	 			</li>
 				   	 			<div class="clearfix"> </div>
 				   	 		</ul>
@@ -229,13 +136,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				   	 				<img src="images/f7.jpg" class="img-responsive" alt=""/>
 				   	 			</li>
 				   	 			<li class="grid-1_right">
-				   	 				<p>Garcinia cambogia is one of the main 
-										components in one of the best-selling 
-										supplemental weight loss products, 
-										Hydroxycut., and researchers have 
-										concluded that "the evidence for G. 
-										cambogia is not compelling.</p>
-								      <h4><a href="#">annette Doe</a> | Abc Company</h4>
+				   	 				<p>“But failure has to be an option in art and in exploration—because its a leap of faith. And no important endeavor that required innovation was done without risk. You have to be willing to take those risks.”</p>
+								      <h4><a href="#">James Cameron</a></h4>
 				   	 			</li>
 				   	 			<div class="clearfix"> </div>
 				   	 		</ul>
@@ -258,45 +160,56 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	<div class="container">
 		<h3>Our Team</h3>
 	    <div class="col-md-3 team-member text-center">
-		    <img src="images/f9.jpg" class="img-responsive img-circle1" alt=""/>
-			<h5>blanditiis iusto</h5>
-			<h6>Account Manager</h6>
-			<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti.</p>
+		    <img src="images/Yomin.jpg" class="img-responsive img-circle1" alt=""/>
+			<h5>Yomindu Rajasooriya</h5>
+			<h6>Front-End Developer </h6>
+			<p>Yomindu Rajasooriya is Working as a front-end developer alongside the executive team of Rassa.lk company. He is studying Cloud Computing at Sri Lanka Technological Campus in padukka. </p>
 			<a href="#"><i class="fa fa-facebook fa1"> </i></a>
 			<a href="#"><i class="fa fa-twitter fa1"> </i></a>
 			<a href="#"><i class="fa fa-linkedin fa1"> </i></a>
 			<a href="#"><i class="fa fa-instagram fa1"> </i></a>
 		</div>
 		<div class="col-md-3 team-member text-center">
-			<img src="images/f8.jpg" class="img-responsive img-circle1" alt=""/>
-			<h5>blanditiis iusto</h5>
-			<h6>Account Manager</h6>
-			<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti.</p>
+			<img src="images/Niki.jpg" class="img-responsive img-circle1" alt=""/>
+			<h5>Nikini Perera</h5>
+			<h6>Back-End Developer</h6>
+			<p>Nikini Perera is working as back-end developer and Graphic Designer alongside the executive team of Rassa.lk company. She is studying Cyber Security  at Sri Lanka Technological Campus.</p>
 			<a href="#"><i class="fa fa-facebook fa1"> </i></a>
 			<a href="#"><i class="fa fa-twitter fa1"> </i></a>
 			<a href="#"><i class="fa fa-linkedin fa1"> </i></a>
 			<a href="#"><i class="fa fa-instagram fa1"> </i></a>
 		</div>
 		<div class="col-md-3 team-member text-center">
-		    <img src="images/f10.jpg" class="img-responsive img-circle1" alt=""/>
-			<h5>blanditiis iusto</h5>
-			<h6>Account Manager</h6>
-			<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti.</p>
+		    <img src="images/Dine.jpg" class="img-responsive img-circle1" alt=""/>
+			<h5>Dinethri Upeksha</h5>
+			<h6>Content Manager</h6>
+			<p>Dinethri Upeksha is the Content Manager on the Executive Team of Rassa.lk company. She is responsible for creating improving and maintaining content with the goal of achieving business goals. Currently she is studying Cloud Computing at Sri Lanka Technological Campus in Padukka.</p>
 			<a href="#"><i class="fa fa-facebook fa1"> </i></a>
 			<a href="#"><i class="fa fa-twitter fa1"> </i></a>
 			<a href="#"><i class="fa fa-linkedin fa1"> </i></a>
 			<a href="#"><i class="fa fa-instagram fa1"> </i></a>
 		</div>
 		<div class="col-md-3 team-member text-center">
-	        <img src="images/f7.jpg" class="img-responsive img-circle1" alt=""/>
-			<h5>blanditiis iusto</h5>
-			<h6>Account Manager</h6>
-			<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti.</p>
+		    <img src="images/f13.jpg" class="img-responsive img-circle1" alt=""/>
+			<h5>Nipun Anjana</h5>
+			<h6>Administrative Manager</h6>
+			<p>Nipun Anjana is an administrative working alongside the executive team of a Rassa.lk company. he is studying Cloud Computing at Sri Lanka Technological Campus in Padukka.</p>
 			<a href="#"><i class="fa fa-facebook fa1"> </i></a>
 			<a href="#"><i class="fa fa-twitter fa1"> </i></a>
 			<a href="#"><i class="fa fa-linkedin fa1"> </i></a>
 			<a href="#"><i class="fa fa-instagram fa1"> </i></a>
 		</div>
+		<div class="col-md-3 team-member text-center">
+	        <img src="images/Tharu.jpg" class="img-responsive img-circle1" alt=""/>
+			<h5>Tharshi Umayanga</h5>
+			<h6>Account Manager</h6>
+			<p>As an Account Manager at Rassa.lk, I have experience working extensively with several companies. I am a graduate of software engineering at sri lanka technologycle campus and am currently studying for my master's degree.</p>
+			<a href="#"><i class="fa fa-facebook fa1"> </i></a>
+			<a href="#"><i class="fa fa-twitter fa1"> </i></a>
+			<a href="#"><i class="fa fa-linkedin fa1"> </i></a>
+			<a href="#"><i class="fa fa-instagram fa1"> </i></a>
+		</div>
+		
 		<div class="clearfix"> </div>
 	</div>	
 </div>
@@ -305,44 +218,45 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		<div class="col-md-3 grid_3">
 			<h4>Navigate</h4>
 			<ul class="f_list f_list1">
-				<li><a href="index.html">Home</a></li>
-				<li><a href="login.html">Sign In</a></li>
-				<li><a href="login.html">Join Now</a></li>
-				<li><a href="about.html">About</a></li>
+				<li><a href="index.php">Home</a></li>
+				<li><a href="login.php">Sign In</a></li>
+				<li><a href="login.php">Join Now</a></li>
+				<li><a href="about.php">About</a></li>
 			</ul>
 			<ul class="f_list">
-				<li><a href="features.html">Features</a></li>
-				<li><a href="terms.html">Terms of use</a></li>
-				<li><a href="contact.html">Contact Us</a></li>
-				<li><a href="jobs.html">Post a Job</a></li>
+				<li><a href="features.php">Features</a></li>
+				<li><a href="terms.php">Terms of use</a></li>
+				<li><a href="contact.php">Contact Us</a></li>
+				<li><a href="postjob.php">Post a Job</a></li>
 			</ul>
 			<div class="clearfix"> </div>
 		</div>
 		<div class="col-md-3 grid_3">
-			<h4>Twitter Widget</h4>
+			<h4>Social Medias</h4>
 			<div class="footer-list">
 			  <ul>
-				<li><i class="fa fa-twitter tw1"> </i><p><span class="yellow"><a href="#">consectetuer</a></span> adipiscing elit web design</p></li>
-				<li><i class="fa fa-twitter tw1"> </i><p><span class="yellow"><a href="#">consectetuer</a></span> adipiscing elit web design</p></li>
-				<li><i class="fa fa-twitter tw1"> </i><p><span class="yellow"><a href="#">consectetuer</a></span> adipiscing elit web design</p></li>
+				<li><i class="fa fa-twitter tw1"> </i><p><span class="yellow"><a href="https://twitter.com/SLTechbro6">Twitter Support</a></span> Latest Updates trough Twitter</p></li>
+				<li><i class="fa fa-facebook fb"> </i><p><span class="yellow"><a href="https://www.facebook.com/anjana.nipun.1">Facebook Support</a></span> Latest Updates trough Facebook</p></li>
+				
 			  </ul>
 			</div>
 		</div>
 		<div class="col-md-3 grid_3">
-			<h4>Job Portal</h4>
-			<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. </p>
+			<h4>Rassa.lk</h4>
+			<p>This is a system that allows job seekers and recruiters to communicate with each other. This is was online job portal for delivering job placements to employees who are looking for a job vacancies.</p>
 		</div>
 		<div class="col-md-3 grid_3">
-			<h4>Sign up for our newsletter</h4>
-			<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam.</p>
+			<h4>Contact Us</h4>
+			<p>Contact Us trough Email, Mobile, Telephone or Fax</p>
 			<form>
-				<input type="text" class="form-control" placeholder="Enter your email">
-				<button type="button" class="btn red">Subscribe now!</button>
+		
+				<button type="button" class="btn "><span class="yellow"> <a href="contact.php">Contact Now!</a></span></button>
 		    </form>
 		</div>
 		<div class="clearfix"> </div>
 	</div>
 </div>
+
 <div class="footer_bottom">	
 	<div class="container">
   

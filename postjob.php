@@ -35,8 +35,7 @@
 	        <ul class="nav navbar-nav">
 				<li><a href="index.php">Jobs</a></li>
 				<li><a href="services.php">Services</a></li>
-				<li><a href="https://recruitme.lk/jobs-in-sri-lanka">Recruiters</a></li>
-		        </li>
+		        <li><a href="https://recruitme.lk/jobs-in-sri-lanka">Recruiters</a></li>
 		        <li class="dropdown">
 		            <a href="#" class="dropdown-toggle" data-toggle="dropdown">More<b class="caret"></b></a>
 		            <ul class="dropdown-menu">
@@ -57,105 +56,18 @@
 
 <div class="container">
     <div class="single">  
-       <div class="box_1">
-       	<h3>What we do</h3>
-        <div class="col-md-5">
-        	<img src="images/1.png" class="img-responsive" alt=""/>
-        </div>
-        <div class="col-md-7 service_box1">
-        	<h5>This site gives job seekers the opportunity to apply for a job of their choice, to find out more, and to apply for a job. Suppose that unemployment will also disappear due to this. It also gives them the opportunity to apply for a job of their choice. This will help many unemployed youths to find employment.</h5>
-        	<p>The site also offers the opportunity to recruit new employees for their business. This makes it very easy to find an employee who is qualified for their job. </p>
-        	<a href="#" class="btn_3"></a>
-        </div>
-        <div class="clearfix"> </div>
-       </div>
-       <div class="box_2">
-       	<h3>Resume Services</h3>
-       	<div class="col-md-4 icon-service">
-       		<div class="icon">
-				<i class="fa fa-calendar"></i>
-			</div>
-			<div class="icon-box-body">
-				<h4>Comment</h4>
-				<p>Anyone can comment to the posts.</p>
-			</div>
-		</div>
-       	<div class="col-md-4 icon-service">
-       		<div class="icon">
-				<i class="fa fa-lightbulb-o"></i>
-			</div>
-			<div class="icon-box-body">
-				<h4>Map</h4>
-				<p>Easily find a nearby jobs using a map.</p>
-			</div>
-		</div>
-       	<div class="col-md-4 icon-service">
-       		<div class="icon">
-				<i class="fa fa-briefcase"></i>
-			</div>
-			<div class="icon-box-body">
-				<h4>Post a job</h4>
-				<p>Post a job vacancy for your company.</p>
-			</div>
-		</div>
-		<div class="col-md-4 icon-service">
-       		<div class="icon">
-				<i class="fa fa-bar-chart-o"></i>
-			</div>
-			<div class="icon-box-body">
-				<h4>Customer services </h4>
-				<p>You can contact us using Gmail, mobile numbers or social media.</p>
-			</div>
-		</div>
-		<div class="col-md-4 icon-service">
-       		<div class="icon">
-				<i class="fa fa-bug"></i>
-			</div>
-			<div class="icon-box-body">
-				<h4>Applying A Job</h4>
-				<p>Easy to apply a job post. </p>
-			</div>
-		</div>
-		<div class="col-md-4 icon-service">
-       		<div class="icon">
-				<i class="fa fa-flash"></i>
-			</div>
-			<div class="icon-box-body">
-				<h4>Locate You</h4>
-				<p>See what are the jobs vacancies near by.</p>
-			</div>
-		</div>
-       	<div class="clearfix"> </div>
-       </div>
-       <div class="box_3">
-       	  <h3>Clients say</h3>
-       	  <div class="col-md-6 testimonial">
-		    <blockquote>
-				<p>This is a very useful website that can provide job opportunities to many people. What I find most unique is the ease of providing job opportunities around them.</p>
-			</blockquote>
-			<div class="author">
-				<figure class="author-img">
-					<img src="images/f2.jpg" class="img-responsive" alt=""/>
-				</figure>
-				<h6>Mark</h6>
-				<span class="author-info">Fashion Designer, DKSA</span>
-			</div>
-		  </div>
-		  <div class="col-md-6 testimonial">
-		    <blockquote>
-				<p>A very valuable website. Please continue.</p>
-			</blockquote>
-			<div class="author">
-				<figure class="author-img">
-					<img src="images/f1.jpg" class="img-responsive" alt=""/>
-				</figure>
-				<h6>Tharushi</h6>
-				<span class="author-info">Cake maker , Tharu cake pvt.ltd</span>
-			</div>
-		 </div>
-		 <div class="clearfix"> </div>
-       </div>
-	</div>
+	   <div class="form-container">
+        <h2>Upload Your Job Details</h2>
+		<p>Confirmation of your post will be provided through email. Post your Email and information RAR file below. </p>
+        <div class="search_form1">
+		    <form action="">
+			  <input type="text" class="text" placeholder=" " value="Email Address" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Email Address';}"><br>
+			  <input type="file" name="myfile">
+			  <input type="submit" value="Post your Job">
+	        </form>
+	    </div>
+    </div>
+ </div>
 </div>
 <div class="footer">
 	<div class="container">

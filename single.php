@@ -4,10 +4,9 @@
 <html>
 <head>
 <title>Rassa.lk </title>
+<link rel="icon" type="image/x-icon" href="images/logo2.png">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta name="keywords" content="Job Portal Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template, 
-Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyEricsson, Motorola web design" />
 <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
 <link href="css/bootstrap-3.1.1.min.css" rel='stylesheet' type='text/css' />
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
@@ -30,205 +29,103 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		        <span class="icon-bar"></span>
 		        <span class="icon-bar"></span>
 	        </button>
-	        <a class="navbar-brand" href="index.html"><img src="images/logo.png" alt=""/></a>
+	        <a class="navbar-brand" href="index.php"><img src="images/logo.png" alt=""/></a>
 	    </div>
 	    <!--/.navbar-header-->
 	    <div class="navbar-collapse collapse" id="bs-example-navbar-collapse-1" style="height: 1px;">
 	        <ul class="nav navbar-nav">
-		        <li class="dropdown">
-		            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Jobs<b class="caret"></b></a>
-		            <ul class="dropdown-menu">
-			            <li><a href="location.html">Contract Jobs</a></li>
-			            <li><a href="location.html">Walkin Jobs</a></li>
-			            <li><a href="location.html">Jobs by Location</a></li>
-			            <li><a href="location.html">Jobs by Function</a></li>
-			            <li><a href="location.html">Jobs by Industry</a></li>
-			            <li><a href="location.html">Jobs by Company</a></li>
-		            </ul>
-		        </li>
-		        <li class="dropdown">
-		        	<a href="#" class="dropdown-toggle" data-toggle="dropdown">Services<b class="caret"></b></a>
-		            <ul class="dropdown-menu multi-column columns-3">
-			            <div class="row">
-				            <div class="col-sm-4">
-					            <ul class="multi-column-dropdown">
-						            <li><a href="services.html">Action</a></li>
-						            <li><a href="services.html">Another action</a></li>
-						            <li><a href="services.html">Something else here</a></li>
-						            <li class="divider"></li>
-						            <li><a href="services.html">Separated link</a></li>
-						            <li class="divider"></li>
-						            <li><a href="services.html">One more separated link</a></li>
-					            </ul>
-				            </div>
-				            <div class="col-sm-4">
-					            <ul class="multi-column-dropdown">
-						            <li><a href="services.html">Action</a></li>
-						            <li><a href="services.html">Another action</a></li>
-						            <li><a href="services.html">Something else here</a></li>
-						            <li class="divider"></li>
-						            <li><a href="services.html">Separated link</a></li>
-						            <li class="divider"></li>
-						            <li><a href="services.html">One more separated link</a></li>
-					            </ul>
-				            </div>
-				            <div class="col-sm-4">
-					            <ul class="multi-column-dropdown">
-						            <li><a href="services.html">Action</a></li>
-						            <li><a href="services.html">Another action</a></li>
-						            <li><a href="services.html">Something else here</a></li>
-						            <li class="divider"></li>
-						            <li><a href="services.html">Separated link</a></li>
-						            <li class="divider"></li>
-						            <li><a href="services.html">One more separated link</a></li>
-					            </ul>
-				            </div>
-			            </div>
-		            </ul>
-		        </li>
-		        <li class="dropdown">
-		            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Recruiters<b class="caret"></b></a>
-		            <ul class="dropdown-menu">
-			            <li><a href="login.html">Recruiter Updates</a></li>
-			            <li><a href="recruiters.html">Recruiters you are following</a></li>
-			            <li><a href="codes.html">Shortcodes</a></li>
-		            </ul>
-		        </li>
+				<li><a href="index.php">Jobs</a></li>
+				<li><a href="services.php">Services</a></li>
+		        <li><a href="https://recruitme.lk/jobs-in-sri-lanka">Recruiters</a></li>
 		        <li class="dropdown">
 		            <a href="#" class="dropdown-toggle" data-toggle="dropdown">More<b class="caret"></b></a>
 		            <ul class="dropdown-menu">
-			            <li><a href="jobs.html">Walk-ins</a></li>
-			            <li><a href="jobs.html">Bpo Jobs</a></li>
-			            <li><a href="jobs.html">Teaching Jobs</a></li>
-			            <li><a href="jobs.html">Diploma Jobs</a></li>
-			            <li><a href="jobs.html">Tech Support</a></li>
-			            <li><a href="jobs.html">Finance Jobs</a></li>
-			            <li><a href="jobs.html">Part time Jobs</a></li>
-			            <li><a href="jobs.html">Health Care</a></li>
-			            <li><a href="jobs.html">Hospitality</a></li>
-			            <li><a href="jobs.html">Internships</a></li>
-			            <li><a href="jobs.html">Research Jobs</a></li>
-			            <li><a href="jobs.html">Defence Jobs</a></li>
+						<li><a href="features.php">Features</a></li>
+			            <li><a href="terms.php">Terms of use</a></li>
+						<li><a href="contact.php">Contact Us</a></li>
+			            <li><a href="about.php">About Us</a></li>
 		            </ul>
 		        </li>
-		        <li><a href="login.html">Login</a></li>
-		        <li><a href="resume.html">Upload Resume</a></li>
+		        <li><a href="login.php">Login</a></li>
+		        <li><a href="postjob.php">Post a Job</a></li>
 	        </ul>
 	    </div>
 	    <div class="clearfix"> </div>
 	  </div>
 	    <!--/.navbar-collapse-->
 	</nav>
-<div class="banner_1">
-	<div class="container">
-		<div id="search_wrapper1">
-		   <div id="search_form" class="clearfix">
-		    <h1>Start your job search</h1>
-		    <p>
-			 <input type="text" class="text" placeholder=" " value="Enter Keyword(s)" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Enter Keyword(s)';}">
-			 <input type="text" class="text" placeholder=" " value="Location" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Location';}">
-			 <label class="btn2 btn-2 btn2-1b"><input type="submit" value="Find Jobs"></label>
-			</p>
-           </div>
-		</div>
-   </div> 
-</div>	
 <div class="container">
     <div class="single">  
-	   <div class="col-md-4">
-	   	  <div class="col_3">
-	   	  	<h3>Todays Jobs</h3>
-	   	  	<ul class="list_1">
-	   	  		<li><a href="#">LIC Housing Finance Ltd. recruitment for Personal Assistant in Mumbai</a></li>
-	   	  		<li><a href="#">Madurai Kamaraj University recruitment for Research Assistants Econometrics in Madurai</a></li>		
-	   	  		<li><a href="#">LIC Housing Finance Ltd. recruitment for Personal Assistant in Mumbai</a></li>
-	   	  		<li><a href="#">Madurai Kamaraj University recruitment for Research Assistants Econometrics in Madurai</a></li>		
-	   	  		<li><a href="#">LIC Housing Finance Ltd. recruitment for Personal Assistant in Mumbai</a></li>
-	   	  		<li><a href="#">Madurai Kamaraj University recruitment for Research Assistants Econometrics in Madurai</a></li>		
-	   	  		<li><a href="#">LIC Housing Finance Ltd. recruitment for Personal Assistant in Mumbai</a></li>
-	   	  		<li><a href="#">Madurai Kamaraj University recruitment for Research Assistants Econometrics in Madurai</a></li>								
-	   	  	</ul>
-	   	  </div>
-	   	  <div class="col_3">
-	   	  	<h3>Jobs by Category</h3>
-	   	  	<ul class="list_2">
-	   	  		<li><a href="#">Railway Recruitment</a></li>
-	   	  		<li><a href="#">Indian Air Force Jobs</a></li>		
-	   	  		<li><a href="#">Police Jobs</a></li>
-	   	  		<li><a href="#">Intelligence Bureau Jobs</a></li>		
-	   	  		<li><a href="#">Indian Army Jobs</a></li>
-	   	  		<li><a href="#">Indian Navy Jobs</a></li>		
-	   	  		<li><a href="#">BSNL Jobs</a></li>
-	   	  		<li><a href="#">SBI Jobs</a></li>								
-	   	  	</ul>
-	   	  </div>
-	   	  <div class="widget">
-	        <h3>Take The Job Portal Poll!</h3>
-    	        <div class="widget-content"> 
-                 <div class="Job Portal-answer">
-			    	<span class="Job Portal-answer-group">
-		    			<span class="Job Portal-answer-input">
-		    			   <input class="Job Portal-radiobutton" type="radio">
-		    			</span>
-		    			<label for="" class="Job Portal-input-label">
-		    				<span class="Job Portal-answer-span">Frequently</span>
-		    			</label>
-		    		</span>
-			    	<span class="Job Portal-answer-group">
-		    			<span class="Job Portal-answer-input">
-		    			   <input class="Job Portal-radiobutton" type="radio">
-		    			</span>
-		    			<label for="" class="Job Portal-input-label">
-		    				<span class="Job Portal-answer-span">Interviewing</span>
-		    			</label>
-		    		</span>
-			        <span class="Job Portal-answer-group">
-		    			<span class="Job Portal-answer-input">
-		    			   <input class="Job Portal-radiobutton" type="radio">
-		    			</span>
-		    			<label for="" class="Job Portal-input-label">
-		    				<span class="Job Portal-answer-span">Leaving a familiar workplace</span>
-		    			</label>
-		    		</span>
-		    		<div class="Job Portal_vote">
-		    		  <a class="Job Portal-vote-button">Vote</a>
-		    		</div>
-			     </div>
-    	       </div>
-    	</div>
 	 </div>
 	 <div class="col-md-8 single_right">
-	      <h3>Sed ut perspiciatis unde omnis iste natus</h3>
+	      <h3>Software Developer</h3>
 	      <div class="row_1">
 	      	<div class="col-sm-5 single_img">
 	      		<img src="images/a1.jpg" class="img-responsive" alt=""/>
 	      	</div>
 	      	<div class="col-sm-7 single-para">
-	      		<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', </p>
-	      		<p>"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+			  <table class="condidate_detail">
+          	<h4>Job Details</h4>
+			<tbody>
+				<tr>
+					<td>Company Name</td>
+					<td>GSK Software PVT LTD</td>
+				</tr>
+
+				<tr>
+					<td>Age</td>
+					<td>28-35</td>
+				</tr>
+
+				<tr>
+					<td>Location</td>
+					<td>Colombo 10</td>
+				</tr>
+
+				<tr>
+					<td>Experiance</td>
+					<td>10 Years</td>
+				</tr>
+
+				<tr>
+					<td>Education</td>
+					<td>Degree holder</td>
+				</tr>
+
+				<tr>
+					<td>Career Lavel</td>
+					<td>Mid-Level</td>
+				</tr>
+
+				<tr>
+					<td>Phone</td>
+					<td>077 2729 729</td>
+				</tr>
+
+				<tr>
+					<td>Fax</td>
+					<td>011 1247-256</td>
+				</tr>
+
+				<tr>
+					<td>E-mail</td>
+					<td><a href="gsksoftware@gmail.com">gsksoftware@gmail.com</a></td>
+				</tr>
+
+				<tr>
+					<td>Website</td>
+					<td><a href="https://www.gsk.com/en-gb/home/">Gsk.com</a></td>
+				</tr>
+			</tbody>
+		 </table>
 	      	</div>
 	      	<div class="clearfix"> </div>
 	      </div>
-	      <h5>At vero eos et accusamus et iusto odio dignissimos</h5>
-	      <p>"On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through weakness of will, which is the same as saying through shrinking from toil and pain. These cases are perfectly simple and easy to distinguish. In a free hour, when our power of choice is untrammelled and when nothing prevents our being able to do what we like best, every pleasure is to be welcomed and every pain avoided. But in certain circumstances and owing to the claims of duty or the obligations of business it will frequently occur that pleasures have to be repudiated and annoyances accepted. </p>
-	      <h5>At vero eos et accusamus et iusto odio dignissimos</h5>
-	      <p>"On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through weakness of will, which is the same as saying through shrinking from toil and pain. These cases are perfectly simple and easy to distinguish. In a free hour, when our power of choice is untrammelled and when nothing prevents our being able to do what we like best, every pleasure is to be welcomed and every pain avoided. But in certain circumstances and owing to the claims of duty or the obligations of business it will frequently occur that pleasures have to be repudiated and annoyances accepted. </p>
+	      <h5>Job Description</h5>
+	      <p>This position will work directly with client customers to provide world-class application baseload and non-baseload support for multiple utility company applications. The successful candidate will design, develop, deploy and support technical solutions in a collaborative team environment. Must have solid understanding and production experience in analyzing, developing, and deploying solutions Gather software application requirements through interactions with business users. And must Collaborate with business analyst team members to identify gaps and dependencies in requirements across applications and departments. We provide outsourcing, staffing, consulting and workforce solutions within the areas of engineering, accounting and finance, healthcare, human resources, IT, legal, life sciences, manufacturing and logistics, office and administration and sales and marketing. </p>
 	      <div class="comments">
 	      	<h6>Comments</h6>
-			<div class="media media_1">
-			  <div class="media-left"><a href="#"> </a></div>
-			  <div class="media-body">
-			    <h4 class="media-heading"><a class="author" href="#">Sollicitudin</a><a class="reply" href="#">Reply</a><div class="clearfix"> </div></h4>
-			    Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.
-			  </div>
-			  <div class="clearfix"> </div>
-			</div>
-			<div class="media">
-			  <div class="media-left"><a href="#"> </a></div>
-			  <div class="media-body">
-			    <h4 class="media-heading"><a class="author" href="#">Sollicitudin</a><a class="reply" href="#">Reply</a><div class="clearfix"> </div></h4>
-			    Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.
-			  </div>
+
 			</div>
 		  </div>
 		  <form>
@@ -246,6 +143,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
           </form>
 	   </div>
 	   <div class="clearfix"> </div>
+	   <div class="single">  
+	 </div>
 	 </div>
 </div>
 <div class="footer">
@@ -253,44 +152,45 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		<div class="col-md-3 grid_3">
 			<h4>Navigate</h4>
 			<ul class="f_list f_list1">
-				<li><a href="index.html">Home</a></li>
-				<li><a href="login.html">Sign In</a></li>
-				<li><a href="login.html">Join Now</a></li>
-				<li><a href="about.html">About</a></li>
+				<li><a href="index.php">Home</a></li>
+				<li><a href="login.php">Sign In</a></li>
+				<li><a href="login.php">Join Now</a></li>
+				<li><a href="about.php">About</a></li>
 			</ul>
 			<ul class="f_list">
-				<li><a href="features.html">Features</a></li>
-				<li><a href="terms.html">Terms of use</a></li>
-				<li><a href="contact.html">Contact Us</a></li>
-				<li><a href="jobs.html">Post a Job</a></li>
+				<li><a href="features.php">Features</a></li>
+				<li><a href="terms.php">Terms of use</a></li>
+				<li><a href="contact.php">Contact Us</a></li>
+				<li><a href="postjob.php">Post a Job</a></li>
 			</ul>
 			<div class="clearfix"> </div>
 		</div>
 		<div class="col-md-3 grid_3">
-			<h4>Twitter Widget</h4>
+			<h4>Social Medias</h4>
 			<div class="footer-list">
 			  <ul>
-				<li><i class="fa fa-twitter tw1"> </i><p><span class="yellow"><a href="#">consectetuer</a></span> adipiscing elit web design</p></li>
-				<li><i class="fa fa-twitter tw1"> </i><p><span class="yellow"><a href="#">consectetuer</a></span> adipiscing elit web design</p></li>
-				<li><i class="fa fa-twitter tw1"> </i><p><span class="yellow"><a href="#">consectetuer</a></span> adipiscing elit web design</p></li>
+				<li><i class="fa fa-twitter tw1"> </i><p><span class="yellow"><a href="https://twitter.com/SLTechbro6">Twitter Support</a></span> Latest Updates trough Twitter</p></li>
+				<li><i class="fa fa-facebook fb"> </i><p><span class="yellow"><a href="https://www.facebook.com/anjana.nipun.1">Facebook Support</a></span> Latest Updates trough Facebook</p></li>
+				
 			  </ul>
 			</div>
 		</div>
 		<div class="col-md-3 grid_3">
-			<h4>Job Portal</h4>
-			<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. </p>
+			<h4>Rassa.lk</h4>
+			<p>This is a system that allows job seekers and recruiters to communicate with each other. This is was online job portal for delivering job placements to employees who are looking for a job vacancies.</p>
 		</div>
 		<div class="col-md-3 grid_3">
-			<h4>Sign up for our newsletter</h4>
-			<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam.</p>
+			<h4>Contact Us</h4>
+			<p>Contact Us trough Email, Mobile, Telephone or Fax</p>
 			<form>
-				<input type="text" class="form-control" placeholder="Enter your email">
-				<button type="button" class="btn red">Subscribe now!</button>
+		
+				<button type="button" class="btn "><span class="yellow"> <a href="contact.php">Contact Now!</a></span></button>
 		    </form>
 		</div>
 		<div class="clearfix"> </div>
 	</div>
 </div>
+
 <div class="footer_bottom">	
 	<div class="container">
   

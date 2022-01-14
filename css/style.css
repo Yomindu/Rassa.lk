@@ -1,4 +1,4 @@
-
+team-member
 h4, h5, h6,
 h1, h2, h3 {margin-top: 0;}
 ul, ol {margin: 0;}
@@ -311,6 +311,7 @@ h2.title {
 .row_1 h4 a:hover{
 	text-decoration:none;
 	color:#e43232;
+
 }
 .row_1 h6{
 	color: #c5c5c5;
